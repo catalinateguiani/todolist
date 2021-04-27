@@ -1,12 +1,12 @@
 html {
   background-color: #8aa899;
-  background-image: -webkit-linear-gradient(65deg, #5c6e58 50%, #e4e9fd 50%);
+  background-image: -webkit-linear-gradient(65deg, #5c6e58 15%, #e4e9fd 100%);
   min-height: 1000px;
   font-family: "helvetica neue";
 }
 
 h1 {
-  color: #fff;
+  color: #f2d349;
   padding: 10px;
 }
 
