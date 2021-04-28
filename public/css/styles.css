@@ -2,7 +2,7 @@ html {
   background-color: #8aa899;
   background-image: -webkit-linear-gradient(65deg, #5c6e58 15%, #e4e9fd 100%);
   min-height: 1000px;
-  font-family: "helvetica neue";
+  font-family: "sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;";
 }
 
 h1 {
